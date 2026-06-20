@@ -1,0 +1,13 @@
+# .gitignore for Wed_101 GitHub Pages
+
+# Config chứa URL thật (nếu cần ẩn)
+# config.js   ← bỏ comment nếu muốn ẩn URL
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+*.log
